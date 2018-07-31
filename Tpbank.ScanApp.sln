@@ -1,0 +1,104 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tpbank.ScanApp", "Tpbank.ScanApp\Tpbank.ScanApp.csproj", "{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpBank.Core.Componet", "TpBank.Core.Componet\TpBank.Core.Componet.csproj", "{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tpbank.Core.Utilities", "Tpbank.Core.Utilities\Tpbank.Core.Utilities.csproj", "{1A2C0015-E693-4802-BB67-5F79471753F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tpbank.Core.Model", "Tpbank.Core.Model\Tpbank.Core.Model.csproj", "{5BB54722-921E-4441-9D20-A141D62C17FD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tpbank.Core.Bussiness", "Tpbank.Core.Bussiness\Tpbank.Core.Bussiness.csproj", "{C1CA72F5-F983-475F-83DA-C14AB0ABF679}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tpbank.Core.Common", "Tpbank.Core.Common\Tpbank.Core.Common.csproj", "{92505ADA-BE03-4B6B-91D4-708551360364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug TpbScan x86|Any CPU = Debug TpbScan x86|Any CPU
+		Debug TpbScan x86|x86 = Debug TpbScan x86|x86
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Debug TpbScan x86|Any CPU.ActiveCfg = Debug TpbScan x86|Any CPU
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Debug TpbScan x86|Any CPU.Build.0 = Debug TpbScan x86|Any CPU
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Debug TpbScan x86|x86.ActiveCfg = Debug TpbScan x86|x86
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Debug TpbScan x86|x86.Build.0 = Debug TpbScan x86|x86
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Debug|x86.ActiveCfg = Debug|x86
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Debug|x86.Build.0 = Debug|x86
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Release|x86.ActiveCfg = Release|x86
+		{44D1F112-FE91-4AD0-BAD8-982BDC8F2428}.Release|x86.Build.0 = Release|x86
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Debug TpbScan x86|Any CPU.ActiveCfg = Debug TpbScan x86|Any CPU
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Debug TpbScan x86|Any CPU.Build.0 = Debug TpbScan x86|Any CPU
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Debug TpbScan x86|x86.ActiveCfg = Debug TpbScan x86|x86
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Debug TpbScan x86|x86.Build.0 = Debug TpbScan x86|x86
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Debug|x86.Build.0 = Debug|Any CPU
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Release|x86.ActiveCfg = Release|Any CPU
+		{1EE24DA9-03A7-4A4D-A115-1521ABA5E419}.Release|x86.Build.0 = Release|Any CPU
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Debug TpbScan x86|Any CPU.ActiveCfg = Debug TpbScan x86|Any CPU
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Debug TpbScan x86|Any CPU.Build.0 = Debug TpbScan x86|Any CPU
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Debug TpbScan x86|x86.ActiveCfg = Debug TpbScan x86|x86
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Debug TpbScan x86|x86.Build.0 = Debug TpbScan x86|x86
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Debug|x86.Build.0 = Debug|Any CPU
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Release|x86.ActiveCfg = Release|Any CPU
+		{1A2C0015-E693-4802-BB67-5F79471753F5}.Release|x86.Build.0 = Release|Any CPU
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Debug TpbScan x86|Any CPU.ActiveCfg = Debug TpbScan x86|Any CPU
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Debug TpbScan x86|Any CPU.Build.0 = Debug TpbScan x86|Any CPU
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Debug TpbScan x86|x86.ActiveCfg = Debug TpbScan x86|x86
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Debug TpbScan x86|x86.Build.0 = Debug TpbScan x86|x86
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Debug|x86.Build.0 = Debug|Any CPU
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Release|x86.ActiveCfg = Release|Any CPU
+		{5BB54722-921E-4441-9D20-A141D62C17FD}.Release|x86.Build.0 = Release|Any CPU
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Debug TpbScan x86|Any CPU.ActiveCfg = Debug TpbScan x86|Any CPU
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Debug TpbScan x86|Any CPU.Build.0 = Debug TpbScan x86|Any CPU
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Debug TpbScan x86|x86.ActiveCfg = Debug TpbScan x86|x86
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Debug TpbScan x86|x86.Build.0 = Debug TpbScan x86|x86
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Debug|x86.Build.0 = Debug|Any CPU
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Release|x86.ActiveCfg = Release|Any CPU
+		{C1CA72F5-F983-475F-83DA-C14AB0ABF679}.Release|x86.Build.0 = Release|Any CPU
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Debug TpbScan x86|Any CPU.ActiveCfg = Debug TpbScan x86|Any CPU
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Debug TpbScan x86|Any CPU.Build.0 = Debug TpbScan x86|Any CPU
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Debug TpbScan x86|x86.ActiveCfg = Debug TpbScan x86|x86
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Debug TpbScan x86|x86.Build.0 = Debug TpbScan x86|x86
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Debug|x86.Build.0 = Debug|Any CPU
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Release|Any CPU.Build.0 = Release|Any CPU
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Release|x86.ActiveCfg = Release|Any CPU
+		{92505ADA-BE03-4B6B-91D4-708551360364}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
